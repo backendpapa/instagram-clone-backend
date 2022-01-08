@@ -5,6 +5,9 @@
   "repository": "https://github.com/backendpapa/instagram-clone-backend.git",
   "author": "<akejupaul10@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
   "dependencies": {
     "cors": "^2.8.5",
     "dotenv": "^10.0.0",
